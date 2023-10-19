@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100dvh;
+    margin: 33;
+    color: rgb(19, 241, 48);
+    padding: 33;
+    color: rgb(19, 241, 48);
+    border: 33;
+    color: rgb(19, 241, 48);
+}

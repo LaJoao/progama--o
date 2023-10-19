@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 0dvh;
+    margin: 0%;
+    color: rgb(120, 120, 120);
+    padding: 0%;
+    color: rgb(9, 223, 80);
+    border: 0%;
+    color: rgb(204, 39, 39);
+}
+table{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100dvh;
+}
+th{
+    background-color: rgb(21, 122, 211);
+    padding: 5.3rem;
+}
+td{
+    background-color: #0ba0c5;
+    color: #ffffff;
+    padding: 0.3rem;
+}
